@@ -1,29 +1,28 @@
 # 1️⃣ Digit Recognizer
 
-An in-depth data analysis project focused on the Titanic disaster. This project involves data cleaning, visualization, and machine learning to predict survival rates and uncover significant patterns from the dataset. It includes advanced techniques such as hyperparameter tuning and model evaluation.
+A machine learning project that classifies handwritten digits using various algorithms. This project involves comprehensive data preprocessing, visualization, and model optimization to achieve accurate predictions.
 
 ---
 
 ## 📸 Screenshots
 
-![Project](titanic_disaster_analysis.png)
+![Project](digit_recognizer.png)
 
 ---
 
 ## ✨ Features
 
-- Data Wrangling: Comprehensive preprocessing using Pandas, NumPy, and Missingno to handle missing values and optimize datasets.
-- Data Visualization: Insightful visualizations with Seaborn and Matplotlib for better understanding of trends and patterns.
-- Machine Learning Models: Implementation of various classifiers such as Logistic Regression, Random Forest, SVM, and CatBoost to predict survival outcomes.
-- Model Evaluation: Performance assessment using cross-validation and metrics analysis.
-- Hyperparameter Tuning: GridSearchCV applied for fine-tuning model parameters to achieve better accuracy.
+- Data Wrangling: Cleaning and preprocessing datasets using Pandas, NumPy, and Missingno.
+- Data Visualization: Visual analysis of data distribution and patterns with Matplotlib and Seaborn.
+- Machine Learning Models: Implemented Logistic Regression, K-Nearest Neighbors, and Support Vector - - Classifier for digit classification.
+- Model Evaluation: Assessed model performance using cross-validation.
+- Hyperparameter Tuning: Applied GridSearchCV to fine-tune model parameters for optimal accuracy.
+
 
 ---
 
 ## ⚙️ Tech Stack
 
-- Pandas, NumPy: For data manipulation and cleaning.
-- Missingno: For handling and visualizing missing data.
-- Seaborn, Matplotlib: For plotting and data visualization.
-- Scikit-learn: For machine learning models, evaluation, and tuning.
-- CatBoost: Advanced gradient boosting for classification tasks.
+- Pandas, NumPy, Missingno: For data preprocessing and cleaning.
+- Matplotlib, Seaborn: For creating insightful visualizations.
+- Scikit-learn: For model training, evaluation, and optimization.
